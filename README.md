@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Horlerdapo
-- 👀 I’m a Data Analyst.
+- 👀 I’m an Emerging Data Analyst.
 - 🌱 I Specialize in Data Cleaning, Visualization, and Statistical Analysis using tools like EXCEL, SQL, & POWER BI.
 - 💞️ I’m always open to collaborate with Companies or clients on projects that involves Data Analysis, Reporting, and Business Intelligence.
 - 📫 How to reach me via email: topdapson@gmail.com
